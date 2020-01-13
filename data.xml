@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+ <Genre Name="Horror" BookCount="1 Book"/>
+ <Genre Name="Action" BookCount="0 Books"/>
+ <Genre Name="Literature" BookCount="0 Books"/>
+ <Genre Name="Educational" BookCount="0 Books"/>
+</Books>
